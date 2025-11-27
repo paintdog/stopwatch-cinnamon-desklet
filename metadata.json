@@ -1,0 +1,8 @@
+{
+    "uuid": "stopwatch@paintdog",
+    "name": "Stopwatch",
+    "description": "A simple stopwatch",
+    "author": "Paintdog",
+    "version": "1.0",
+    "prevent-decorations": true
+}
